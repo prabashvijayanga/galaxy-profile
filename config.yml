@@ -1,50 +1,75 @@
+# Galaxy Profile README Configuration
+# Oyaage account ekata set wenna hadapu update eka
+
+# Your GitHub username
 username: prabashvijayanga
 
+# Profile information displayed in the galaxy header
 profile:
-  name: Prabash Vijayanga
-  tagline: Frontend & Full-Stack Developer
-  company: OUSL
-  location: Sri Lanka
-  bio: Software Engineering Undergraduate
-  philosophy: Clean code, responsive designs, and continuous learning.
+  name: "Prabash Vijayanga"
+  tagline: "Frontend & Full-Stack Developer"
+  company: "OUSL Software Engineering"
+  location: "Horana, Sri Lanka"
+  bio: |
+    Software Engineering Undergraduate.
+    Building secure, scalable, and responsive full-stack applications.
+  philosophy: '"Clean code, responsive designs, and continuous learning."'
 
+# Social links
 social:
-  email: prabashvijayanga@gmail.com
-  linkedin: prabashvijayanga
-  website: https://github.com/prabashvijayanga
+  email: "prabashvijayanga@gmail.com"
+  linkedin: "prabashvijayanga"
+  website: "https://github.com/prabashvijayanga"
 
+# Galaxy arms represent your core focus areas
 galaxy_arms:
-  - name: Frontend
-    color: synapse_cyan
-    tech:
-      - React.js
-      - Next.js
-  - name: Backend
-    color: dendrite_violet
-    tech:
-      - Java
-      - Spring Boot
-  - name: Tools
-    color: axon_amber
-    tech:
-      - Git
-      - Docker
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "React.js"
+      - "Next.js"
+      - "TypeScript"
+      - "Tailwind"
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "Java"
+      - "Spring Boot"
+      - "Node.js"
+      - "MySQL"
+  - name: "Tools"
+    color: "axon_amber"
+    items:
+      - "Git"
+      - "Vercel"
+      - "Docker"
+      - "Postman"
 
+# Featured projects 
 projects:
-  - repo: Global-Smart-Lost-Found-System
+  - repo: "prabashvijayanga/Global-Smart-Lost-Found-System"
     arm: 1
-    description: Full-stack platform
+    description: "Full-stack platform with JWT, RBAC, and identity-verified workflows."
+  - repo: "prabashvijayanga/Swapora"
+    arm: 0
+    description: "Circular economy platform for item exchange with SSR."
+  - repo: "prabashvijayanga/weather-dashboard"
+    arm: 0
+    description: "Real-time weather app with premium glassmorphism UI."
 
+# Stats configuration
 stats:
   metrics:
-    - commits
-    - stars
-    - prs
-    - issues
-    - repos
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
 
+# Language display settings
 languages:
-  max_display: 6
   exclude:
-    - HTML
-    - CSS
+    - "HTML"
+    - "CSS"
+    - "Shell"
+  max_display: 6
