@@ -72,10 +72,10 @@
       </circle>
       <animateTransform attributeName="transform" type="rotate" from="0 637 140" to="360 637 140" dur="8s" repeatCount="indefinite"/>
     </g>
-    <text x="708.9" y="98.5" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="start" dominant-baseline="middle">Frontend Architecture</text>
+    <text x="708.9" y="98.5" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="start" dominant-baseline="middle">Frontend</text>
     <text x="708.9" y="110.5" fill="#64748b" font-size="8" font-family="monospace" text-anchor="start" dominant-baseline="middle">(0)</text>
-    <text x="637.0" y="223.0" fill="#a78bfa" font-size="9" font-family="monospace" text-anchor="middle" dominant-baseline="middle">Backend Engineering</text>
+    <text x="637.0" y="223.0" fill="#a78bfa" font-size="9" font-family="monospace" text-anchor="middle" dominant-baseline="middle">Backend</text>
     <text x="637.0" y="235.0" fill="#64748b" font-size="8" font-family="monospace" text-anchor="middle" dominant-baseline="middle">(0)</text>
-    <text x="565.1" y="98.5" fill="#ffb020" font-size="9" font-family="monospace" text-anchor="end" dominant-baseline="middle">Tools &amp; Deployment</text>
+    <text x="565.1" y="98.5" fill="#ffb020" font-size="9" font-family="monospace" text-anchor="end" dominant-baseline="middle">Tools</text>
     <text x="565.1" y="110.5" fill="#64748b" font-size="8" font-family="monospace" text-anchor="end" dominant-baseline="middle">(0)</text>
 </svg>
