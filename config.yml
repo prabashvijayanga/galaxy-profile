@@ -1,0 +1,15 @@
+username: prabashvijayanga
+
+stats:
+  metrics:
+    - commits
+    - stars
+    - prs
+    - issues
+    - repos
+
+languages:
+  max_display: 6
+  exclude:
+    - HTML
+    - CSS
