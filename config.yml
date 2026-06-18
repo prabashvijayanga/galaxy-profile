@@ -4,17 +4,6 @@
 # Your GitHub username
 username: prabashvijayanga
 
-# Profile information displayed in the galaxy header
-profile:
-  name: "Prabash Vijayanga"
-  tagline: "Frontend & Full-Stack Developer"
-  company: "OUSL Software Engineering"
-  location: "Horana, Sri Lanka"
-  bio: |
-    Software Engineering Undergraduate.
-    Building secure, scalable, and responsive full-stack applications.
-  philosophy: '"Clean code, responsive designs, and continuous learning."'
-
 # Social links
 social:
   email: "prabashvijayanga@gmail.com"
