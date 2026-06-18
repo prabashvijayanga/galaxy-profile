@@ -1,5 +1,46 @@
 username: prabashvijayanga
 
+profile:
+  name: Prabash Vijayanga
+  tagline: Frontend & Full-Stack Developer
+  company: OUSL Software Engineering
+  location: Horana, Sri Lanka
+  bio: Building secure full-stack apps and scalable systems.
+  philosophy: "Clean code, responsive designs, and continuous learning."
+
+social:
+  email: prabashvijayanga@gmail.com
+  linkedin: prabashvijayanga
+  website: https://github.com/prabashvijayanga
+
+galaxy_arms:
+  - name: Frontend Architecture
+    color: synapse_cyan
+    tech:
+      - React.js
+      - Next.js
+      - TypeScript
+      - Tailwind CSS
+  - name: Backend Engineering
+    color: dendrite_violet
+    tech:
+      - Java
+      - Spring Boot
+      - Node.js
+      - MySQL
+  - name: Tools & Deployment
+    color: axon_amber
+    tech:
+      - Git
+      - Vercel
+      - Postman
+      - Railway
+
+projects:
+  - repo: Global-Smart-Lost-Found-System
+    arm: 1
+    description: Full-stack platform with JWT, RBAC, and identity-verified workflows.
+
 stats:
   metrics:
     - commits
