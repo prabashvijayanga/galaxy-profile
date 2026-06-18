@@ -366,10 +366,10 @@
     <!-- Bright center dot -->
     <circle cx="425" cy="155" r="3" fill="#00d4ff" filter="url(#core-bright-glow)" opacity="0.9"/>
     <!-- Initial -->
-    <text x="425" y="160" text-anchor="middle" fill="#00d4ff" font-size="14" font-weight="bold" font-family="monospace">P</text>
+    <text x="425" y="160" text-anchor="middle" fill="#00d4ff" font-size="14" font-weight="bold" font-family="monospace"> </text>
 
   <!-- 12. Profile text -->
-  <text x="425" y="26" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold" font-family="sans-serif">Prabash Vijayanga</text>
-  <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">Frontend &amp; Full-Stack Developer</text>
-  <text x="425" y="268" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic">&quot;Clean code, responsive designs, and continuous learning.&quot;</text>
+  <text x="425" y="26" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold" font-family="sans-serif"> </text>
+  <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif"> </text>
+  <text x="425" y="268" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic"></text>
 </svg>
